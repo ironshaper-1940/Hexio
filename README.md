@@ -193,3 +193,6 @@ This repository serves as the official landing page for Hexio. The software is d
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of Hexio today!**
+
+---
+**Last updated:** 2026-11-07 17:56:28 UTC
