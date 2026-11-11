@@ -195,4 +195,4 @@ This repository serves as the official landing page for Hexio. The software is d
 **Get the most recent version of Hexio today!**
 
 ---
-**Last updated:** 2026-11-10 22:50:04 UTC
+**Last updated:** 2026-11-11 02:31:40 UTC
